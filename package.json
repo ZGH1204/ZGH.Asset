@@ -1,0 +1,21 @@
+{
+  "name": "com.zgh.asset",
+  "version": "0.0.1",
+  "displayName": "ZGH.Asset",
+  "description": "ZGH Framework.Asset",
+  "unity": "2021.3",
+  "keywords": [
+    "ZGH",
+    "ZGH Asset",
+    "ZGH Framework"
+  ],
+  "author": {
+    "name": " ZGH",
+    "email": "zhao120408@gmail.com",
+    "url": "https://github.com/ZGH1204"
+  },
+  "license": "MIT",
+  "type": "library",
+  "dependencies": {
+  }
+}
